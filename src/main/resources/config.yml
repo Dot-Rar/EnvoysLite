@@ -1,0 +1,26 @@
+items:
+  my_item:
+    chance: 70
+    id: 276
+    data: 0
+    name: '&4My &9Item'
+    amount: 3
+    lore:
+    - '&3Lore line 1'
+    - '&2Lore line 2'
+    enchants:
+    - 'DAMAGE_ALL,5'
+    - 'FIRE_ASPECT,3'
+  token:
+    chance: 78.9
+    id: 339
+    data: 0
+    name: '&9Token'
+    amount: 1
+    lore:
+    - '&3This is a crate token'
+    - '&eRight click a crate to open it'
+    enchants:
+    - 'ARROW_INFINITE,10'
+
+refill-interval-seconds: 1800

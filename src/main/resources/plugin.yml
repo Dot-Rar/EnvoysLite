@@ -1,0 +1,7 @@
+name: EnvoysLite
+version: 1.0
+main: com.perkelle.dev.envoys.EnvoysLite
+commands:
+  envoy:
+    description: Main envoy commands
+    aliases: [envoys]
